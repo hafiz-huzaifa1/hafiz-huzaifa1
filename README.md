@@ -16,4 +16,4 @@ I am a dedicated Frontend Developer with strong expertise in building high-quali
 ---
 [![](https://visitcount.itsvg.in/api?id=hafiz-huzaifa1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Frontend Developer, React.js Developer, Next.js Developer, JavaScript Engineer, Software Engineer, Next.js Expert, React Native Developer.
+Frontend Developer, React.js Developer, Next.js Developer, React Native Developer, JavaScript Engineer, Software Engineer, TypeScript, Tailwind, Bootstrap, HTML, CSS.
